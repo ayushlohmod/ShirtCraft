@@ -1,5 +1,5 @@
 
-<h1 align="center"> ShirtCraft Powered By ThreeJS </h1>
+<h1 align="center"> ShirtCraft Powered By ThreeJS. </h1>
 Shirtcraft is a social media app where u can customize shirt 
 <br>
 </br>
